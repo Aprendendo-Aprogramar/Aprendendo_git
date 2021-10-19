@@ -3,7 +3,7 @@
 ## O que é um branch no git?
 R. O comando git branch permite criar, listar, renomear e excluir ramificações.
 
-## O que é um marge no git?
+## O que é um merge no git?
 R. Um merge é a união de duas branches, normalmente, merges são feitos na branch master.
 
 ## O que é um fork no git?
